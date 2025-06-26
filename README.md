@@ -1,4 +1,4 @@
-🚀 Rajko Dakic | Software Engineer | Python Fullstack | Data Engineer
+🚀 Rajko Dakic | Software Engineer 
 
 👋 Hi there! I'm Rajko Dakic, a full-stack developer with 6 years of experience in programming. My expertise includes automation, web scraping, backend development, data engineering, and cloud infrastructure.
 
@@ -12,7 +12,7 @@
     Databases: PostgreSQL, MySQL, NoSQL (MongoDB, Firebase)
     Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes
     Frontend: React, Angular, JavaScript/TypeScript
-    Automation & ETL: Apache Airflow, Data Pipelines
+    Automation & ETL:  Data Pipelines
     Other: Git, GitHub Actions, Bash/Shell scripting
 
 📈 What I’m Currently Working On:
