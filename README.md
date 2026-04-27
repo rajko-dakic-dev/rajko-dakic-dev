@@ -1,6 +1,6 @@
 🚀 Rajko Dakic | Software Engineer 
 
-👋 Hi there! I'm Rajko Dakic, a full-stack developer with 6 years of experience in programming. My expertise includes automation, web scraping, backend development, data engineering, and cloud infrastructure.
+👋 Hi there! I'm Rajko Dakic, a full-stack developer with 8 years of experience in programming. My expertise includes automation, web scraping, backend development, data engineering, and cloud infrastructure.
 
 💡 I am passionate about building efficient and scalable solutions using Python and modern technologies. I also experiment with AI tools, YouTube content automation, and RAG AI assistants.
 
